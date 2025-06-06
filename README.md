@@ -80,7 +80,7 @@
 
 ## 📸 Screenshots
 
-![image](./img/img.png)
+![image](./image/img.png)
 
 ---
 
