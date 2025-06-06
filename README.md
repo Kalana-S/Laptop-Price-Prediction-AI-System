@@ -73,7 +73,7 @@
 
 ## 📂 Dataset
 
-  Ensure `laptop_price_dataset.csv` is present in the project folder. This dataset should contain the cleaned data with columns like `Company`, `TypeName`, `CPU`, `GPU`, `Memory`, `Weight`, `Price`, etc.
+  Ensure `laptop_price.csv` is present in the project folder. This dataset should contain the cleaned data with columns like `Company`, `TypeName`, `CPU`, `GPU`, `Memory`, `Weight`, `Price`, etc.
 
 ---
 
