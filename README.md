@@ -43,7 +43,7 @@
 - `app.py` – Streamlit web app
 - `laptop_price_prediction.py` – Model training script
 - `model_test.py` – Script to test model independently
-- `laptop_price_dataset.csv` – Cleaned dataset used for training
+- `laptop_price.csv` – Cleaned dataset used for training
 - `README.md` – Project documentation
 - `requirements.txt` – Requirements for run this system
 
