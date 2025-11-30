@@ -1,6 +1,6 @@
 # 💻 Laptop Price Prediction using Machine Learning
 
-  This project is a machine learning-based web application built with **Python**, **Scikit-learn**, and **Streamlit** that predicts the price of a laptop based on various specifications such as CPU, GPU, RAM, storage, and more.
+  This project is a machine learning-based web application built with **Python**, **Scikit-learn**, and **Streamlit** that predicts the price of a laptop based on various specifications such as **CPU, GPU, RAM, storage**, and more.
 
 ---
 
